@@ -4,7 +4,7 @@ bookdown::gitbook:
   config:
     theme: 'white'
     toc:
-      collapse: none
+      collapse: section
       scroll_highlight: true
       before: |
         <li><a href="./index.html"><b>черновики за 2010-2018</b></a></li>
